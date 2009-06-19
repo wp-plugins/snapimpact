@@ -9,7 +9,7 @@ We make volunteering easy. The SnapImpact Plugin displays local volunteering opp
 
 == Description ==
 
-**[SnapImpact](http://actionfeed.org/) is a free location-aware service that makes it easy for people to find volunteer opportunities and get involved in their communities.**
+**[SnapImpact](http://snapimpact.org/) is a free location-aware service that makes it easy for people to find volunteer opportunities and get involved in their communities.**
 
 **The SnapImpact Plugin:**
 
